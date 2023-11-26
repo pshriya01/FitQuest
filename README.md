@@ -124,10 +124,10 @@ BACKEND -
 
 # Contributors 😇
 
-👤 Shatrughan Kumar (Team Leader)
-
-👤 Tanuj Masiwal
-
 👤 Pravin Pawar
 
+👤 Shatrughan Kuma
+
 👤 Shriya Pandey
+
+👤 Tanuj Masiwal
