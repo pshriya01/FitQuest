@@ -33,35 +33,13 @@ The website has been built by the imagination of the team members but the centra
 ## 🤵🏻 Team Members
 
 - #### Shatrughan Kumar (Team Leader)
-  Areas of responsibility:-
-  ###
-  Frontend : HomePage | Login | Signup | Admin | Dashboard Styling
-  ###
-  Backend :
+  
 
 - #### Tanuj Masiwal
-  Areas of responsibility:-
-  ###
-  Frontend : Dashboard
-  ###
-  Backend : exerciseRoute | yogaRoute
-
+ 
 - #### Pravin Pawar
-  Areas of responsibility:-
-  ###
-  Frontend : SingleProductPage | Payment Page | Checkout Page
-  ###
-  Backend : userRoute
-
+ 
 - #### Shriya Pandey
-  Areas of responsibility:-
-  ###
-  Frontend : Product Page
-  ###
-  Backend : productRoute
-
-### Note : - Styling has been done by the individual member on their respective pages.
-
 
 ## 🛠 TechStacks 💻
 
